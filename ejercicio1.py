@@ -4,5 +4,6 @@ for i in range (len(tabla)):
         if tabla[i] > tabla[j]:
             aux = tabla[i]
             tabla[i] = tabla[j]
-            
+            tabla[j] = aux
+
    
