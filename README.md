@@ -10,9 +10,7 @@ Ejercicio 4: Ordenación por inserción dicotómica
 Sea t una tabla de una sola línea.
 1. Escribir primero las especificaciones del algoritmo que no usa la ayuda de otra tabla para calcular su resultado. Así, los elementos de t están «ordenados en su lugar». 
 
-2. Desarrollar el análisis completo de la solución retenida.
-
-En la segunda estrategia de resolución, se define primero una tabla r inicialmente vacía con el mismo cardinal que t. Esta vez se inserta una copia de cada componente t «en su lugar» en r, buscando su posición, como en la primera estrategia que hemos visto antes.
+2. Desarrollar el análisis completo de la solución retenida. (Se define primero una tabla r inicialmente vacía con el mismo cardinal que t. Esta vez se inserta una copia de cada componente t «en su    lugar» en r, buscando su posición).
 
 3. Desarrollar este algoritmo nuevo.
 
