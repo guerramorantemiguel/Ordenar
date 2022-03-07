@@ -2,6 +2,7 @@
 import random
 
 tabla = []
-def generartabla():
-    tabla = tabla.append(random.randint)
-    print(tabla)
+def generartabla(i, n):
+    j = i.split(" ")
+    while len(tabla) < i:
+        tabla.append(random.randint)
