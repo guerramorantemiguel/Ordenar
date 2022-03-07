@@ -5,5 +5,7 @@ for i in range (len(tabla)):
             aux = tabla[i]
             tabla[i] = tabla[j]
             tabla[j] = aux
+print(tabla)
+
 
    
