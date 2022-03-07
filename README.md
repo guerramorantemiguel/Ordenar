@@ -1,9 +1,7 @@
 # Ordenar
-En este repositorio se encuentran resueltos los ejercicios de 'ordenar' de introducción a la algorítmica.
+En este repositorio se encuentra resuelta la Tarea Individual: Realización de UML Y CÓDIGO JUNTO CON DIAGRAMAS DE FLUJO.
 
-Tarea Individual: Realización de UML Y CÓDIGO JUNTO CON DIAGRAMAS DE FLUJO
-
-1. Ordenación por inserción dicotómica
+# 1. Ordenación por inserción dicotómica
 
 Ejercicio 4: Ordenación por inserción dicotómica
 
