@@ -1,7 +1,5 @@
 # Ordenación por inserción dicotómica
-import random
 
-tabla = []
 
 tabla = [5, 7, 3, 2, 10, 9]
 for i in range (len(tabla)):
