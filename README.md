@@ -7,7 +7,7 @@ Dirección: https://github.com/ESTHERRODRIGUEZGARCIA/Ordenar.git
 
 Ejercicio 4: Ordenación por inserción dicotómica
 
-Sea t una tabla de una sola línea donde los componentes son de tipo T images/flechedroite.png COMPARABLE.
+Sea t una tabla de una sola línea.
 1. Escribir primero las especificaciones del algoritmo que no usa la ayuda de otra tabla para calcular su resultado.
 
 Así, los elementos de t están «ordenados en su lugar». Cuidar especialmente la precondición y la postcondición; no son fáciles de obtener, pero proporcionan una guía útil para la construcción del algoritmo.
