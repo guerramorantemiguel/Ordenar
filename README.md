@@ -17,3 +17,5 @@ Así, los elementos de t están «ordenados en su lugar». Cuidar especialmente 
 En la segunda estrategia de resolución, se define primero una tabla r inicialmente vacía con el mismo cardinal que t. Esta vez se inserta una copia de cada componente t «en su lugar» en r, buscando su posición, como en la primera estrategia que hemos visto antes.
 
 3. Desarrollar este algoritmo nuevo.
+
+El código empleado para resolverlo es el siguiente:
